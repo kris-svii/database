@@ -1,2 +1,2 @@
 # Работа с базами данных
-- ["SELECT-запросы"](/Users/krissvi/Library/DBeaverData/workspace6/General/Scripts/Script-1.sql)
+- ["SELECT-запросы"](https://docs.google.com/spreadsheets/d/1QFziv_r9sJfL6pVl3vs51WQakOp0RX3ROLrpuEj47xc/edit?usp=sharing)
